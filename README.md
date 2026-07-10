@@ -7,3 +7,4 @@
 - [Linked List Cycle (141)](linked-list-cycle.cpp)
 - [Intersection of Two Linked Lists (160)](intersection-of-2-LL.cpp)
 - [Roman to Integer (13)](roman-to-int.cpp)
+- [Reverse Nodes in k-Group (25)](.reverse-nodes-in-k-grp.cpp)

@@ -8,3 +8,5 @@
 - [Intersection of Two Linked Lists (160)](intersection-of-2-LL.cpp)
 - [Roman to Integer (13)](roman-to-int.cpp)
 - [Reverse Nodes in k-Group (25)](.reverse-nodes-in-k-grp.cpp)
+- [Palindrome Linked List (234)](.palindrome-linked-list.cpp)
+- [Linked List Cycle II (142)](.linked-list-cycle-ii.cpp)

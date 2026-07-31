@@ -10,3 +10,7 @@
 - [Reverse Nodes in k-Group (25)](.reverse-nodes-in-k-grp.cpp)
 - [Palindrome Linked List (234)](.palindrome-linked-list.cpp)
 - [Linked List Cycle II (142)](.linked-list-cycle-ii.cpp)
+- [Combination Sum (39)](.combination-sum.cpp)
+- [Combination Sum (40)](.combination-sum-ii.cpp)
+- [Binary Tree Inorder Traversal](.bt-inorder.cpp)
+- [Two Sum](.two-sum.cpp)
